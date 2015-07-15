@@ -1,0 +1,3 @@
+include ':andEnginePhysicsBox2DExtension', ':test'
+include ':andEngineTMXTiledMap'
+include ':andEngine'
